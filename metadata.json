@@ -1,0 +1,6 @@
+{
+  "name": "FieldShift Science Explorer",
+  "description": "NASA Space Apps Challenge 2026: Adapting Farms with NASA Data. Global agricultural climate intelligence, research, prediction, and decision support platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
